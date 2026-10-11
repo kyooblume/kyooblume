@@ -18,7 +18,7 @@
 | Project | Description |
 |---|---|
 | [WALTER](https://kyooblume.github.io/walter/NewIndex.html) | Browser-based HRV analyser for psychology students (CCTK, Leeds Trinity University) |
-| [step-jitai-rl-research](https://github.com/kyooblume/step-jitai-rl-research) | RL simulation of step-count JITAI (undergraduate research) |
+| [personality-aware-jitai-rl](https://github.com/kyooblume/personality-aware-jitai-rl) | Undergraduate research: personality-aware JITAI optimised with RL (PPO) |
 | [UK Tourist Dashboard](https://github.com/kyooblume/Leeds_ds_assessment) | Streamlit dashboard on UK tourists' spending in Japan |
 
 ## Tech stack
