@@ -23,3 +23,10 @@
 
 ## Tech stack
 Python · pandas · scikit-learn · XGBoost · Stable-Baselines3 · Streamlit · Django · JavaScript · SQL · Figma
+
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,django,r)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyooblume&show_icons=true&theme=radical" />
+</p>
