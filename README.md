@@ -1,46 +1,62 @@
-# Hi, I'm Kyoka 👋
+# Hi, I'm Kyoka 
 
-**Data science × Healthcare × Behaviour change** — 技術と社会の架け橋に
+## Data Science × AI × Human Wellbeing
 
-## About me
-- 🎓 BSc Data Science (Behavioral Data Science), Yokohama City University — Toda Lab
-- 🌍 Exchange student, Department of Computer Science, Leeds Trinity University (UK), Sep 2025 – May 2026
-- 🔬 Interests: health data science, wearable data analysis, reinforcement learning for behaviour change (JITAI)
-- 🧭 Direction: bridging data analytics and social implementation — building user-friendly tools that turn data into decisions
+I am a data science student interested in building practical data and AI systems that support human health, behaviour, and better decision-making.
 
-## 自己紹介
-- 🎓 横浜市立大学 データサイエンス学部（行動データサイエンス）戸田研究室
-- 🌍 Leeds Trinity University（イギリス）Computer Science 学科に交換留学（2025年9月〜2026年5月）
-- 🔬 関心：ヘルスデータサイエンス、ウェアラブルデータ解析、行動変容のための強化学習（JITAI）
-- 🧭 方向性：データ分析を社会実装につなげ、専門家でなくても使えるツールで意思決定を支える
+My long-term goal is to connect data science, machine learning, and user-centred product development to solve real-world problems.
+
+## What I do
+
+- Develop and evaluate AI agents
+- Analyse health and wearable data
+- Build machine learning and reinforcement-learning models
+- Create interactive dashboards and browser-based tools
+- Translate data and research into practical applications
 
 ## Featured projects
-| Project | Description | Tech |
-|---|---|---|
-| [WALTER](https://github.com/kyooblume/walter) · [live app](https://kyooblume.github.io/walter/NewIndex.html) | Browser-based HRV analyser for psychology students (CCTK, Leeds Trinity University placement) | JavaScript, Chart.js, math.js, Papa Parse, GitHub Pages |
-| [personality-aware-jitai-rl](https://github.com/kyooblume/personality-aware-jitai-rl) | Undergraduate research: personality-aware JITAI optimised with RL (PPO) | Python, Gymnasium, Stable-Baselines3, pandas, matplotlib, seaborn |
-| [UK Tourist Dashboard](https://github.com/kyooblume/Leeds_ds_assessment) · [live demo](https://uk-tourists-japan.streamlit.app) | Streamlit dashboard on UK visitors' spending in Japan | Python, pandas, Streamlit, Altair |
+
+| Project | What it demonstrates |
+|---|---|
+| [WALTER](https://kyooblume.github.io/walter/NewIndex.html) | Browser-based HRV analysis tool developed during my placement at Leeds Trinity University |
+| [Personality-aware JITAI with RL](https://github.com/kyooblume/personality-aware-jitai-rl) | Undergraduate research using reinforcement learning to optimise behaviour-change interventions |
+| [UK Tourist Dashboard](https://github.com/kyooblume/Leeds_ds_assessment) | Streamlit dashboard turning tourism data into business insights |
 
 ## Experience
-| | Role | What I did |
+
+| Organisation | Role | Experience |
 |---|---|---|
-| **Archive Square** · Apr 2026 – present | Data Scientist | Operations-efficiency projects: building and improving generative-AI applications and workflows, improving answer accuracy with RAG and prompt engineering, and evaluating answer quality with a 100-question evaluation set. *Tech: Dify, RAG, LLM, prompt engineering, Docker, Git/GitHub, VS Code* |
-| **Leeds Trinity University** (UK) · Apr–May 2026 | Junior Developer (placement) | Extended an open-source HRV analysis tool (WALTER) with Prof. Caspar Addyman and a fellow student, working in English; the tool was demonstrated at a staff training session. *Tech: JavaScript, Chart.js, math.js, Papa Parse, Git/GitHub Pages* |
-| **MyStory Inc.** · Mar–Aug 2025 | Data Scientist Intern | Healthcare product planning and prototyping; built a data-analysis tool for non-technical staff. *Tech: Python, pandas, Streamlit, XGBoost, Optuna, Django REST Framework, React Native* |
-| **ANA Trading Co., Ltd.** · Jul–Aug 2024 | Data Analysis Intern | Analysed customer and sales data and presented data-driven proposals to executives. *Tech: R* |
+| Archive Square | Data Scientist | Operations-efficiency projects: building and improving generative-AI applications and workflows, improving answer accuracy with RAG and prompt engineering, and evaluating answer quality with a 100-question evaluation set. *Tech: Dify, RAG, LLM, prompt engineering, Docker, Git/GitHub, VS Code* |
+| Leeds Trinity University | Placement Student | Extended HRV research tools in an English-speaking agile team |
+| Healthcare startup | Intern | Contributed to healthcare application development, backend/API work, data processing, and forecasting tools |
+| ANA Trading Co., Ltd. | DX Intern | Analysed membership and sales data and presented business recommendations |
 
-*Some of my work is kept private due to project or internship confidentiality.*
-
-## Languages
-Japanese (native) · English — studied and worked in English during a one-year exchange in the UK
+Some internship code, data, and internal product details are kept private due to confidentiality.
 
 ## Tech stack
-- **Data science / ML:** Python (pandas, matplotlib, scikit-learn, XGBoost, Optuna) · R · Gymnasium · Stable-Baselines3
-- **Generative AI:** Dify · RAG · LLM prompt engineering
-- **Apps & visualisation:** Streamlit · Altair · Django REST Framework · React Native · JavaScript · Chart.js
-- **Tools:** Docker · Git/GitHub · VS Code · SQL (basic)
+
+### Data Science & Machine Learning
+
+Python · pandas · scikit-learn · XGBoost · R · Gymnasium · Stable-Baselines3
+
+### Applications & Visualisation
+
+JavaScript · Django · Streamlit · Chart.js · Altair · HTML · CSS
+
+### Data & Product Development
+
+SQL · Figma · GitHub Pages
 
 ![My Skills](https://skillicons.dev/icons?i=python,js,html,css,django,r)
+
+## Languages
+
+Japanese — Native  
+English — Working proficiency (one-year exchange and placement in the UK)
+
+## Interests
+
+Health data science · Wearable data · Behaviour change · Reinforcement learning · AI agents · Data visualisation
 
 ## 📊 GitHub Stats
 <p align="center">
