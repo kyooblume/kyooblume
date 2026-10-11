@@ -28,7 +28,7 @@ My long-term goal is to connect data science, machine learning, and user-centred
 |---|---|---|
 | Archive Square | Data Scientist | Operations-efficiency projects: building and improving generative-AI applications and workflows, improving answer accuracy with RAG and prompt engineering, and evaluating answer quality with a 100-question evaluation set. *Tech: Dify, RAG, LLM, prompt engineering, Docker, Git/GitHub, VS Code* |
 | Leeds Trinity University | Placement Student | Extended HRV research tools in an English-speaking agile team |
-| Healthcare startup | Intern | Contributed to healthcare application development, backend/API work, data processing, and forecasting tools |
+| MyStory Inc.| Intern — small team with the CEO | Contributed to the development of a healthcare application from concept to implementation, including market research, Django REST backend development, API design, health-data processing, recommendation features, and AI-assisted functionality. Separately developed a Streamlit time-series forecasting tool to make forecasting more accessible to non-technical users. |
 | ANA Trading Co., Ltd. | DX Intern | Analysed membership and sales data and presented business recommendations |
 
 Some internship code, data, and internal product details are kept private due to confidentiality.
